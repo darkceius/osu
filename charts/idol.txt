@@ -19,8 +19,9 @@ GridSize: 32
 TimelineZoom: 1.8
 
 [Metadata]
-Title:Idol (TV Size)
-TitleUnicode:アイドル (TV Size)
+SoundId: rbxassetid://1234567890
+Title:Idol
+TitleUnicode:アイドル
 Artist:YOASOBI
 ArtistUnicode:YOASOBI
 Creator:achyoo
