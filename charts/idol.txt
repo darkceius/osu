@@ -18,7 +18,7 @@ GridSize: 32
 TimelineZoom: 1.8
 
 [Metadata]
-SoundId:rbxassetid://13260765767
+SoundId:rbxassetid://13454447508
 Title:Idol
 TitleUnicode:アイドル
 Artist:YOASOBI
